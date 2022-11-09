@@ -1,7 +1,3 @@
- file with 105 additions and 0 deletions.
- 105  
-Javascript_code_for_animation
-@@ -0,0 +1,105 @@
 <html>
 
 <head>
@@ -105,3 +101,5 @@ Javascript_code_for_animation
             }
         </script>
 </body>
+
+</html>
